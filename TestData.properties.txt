@@ -1,0 +1,11 @@
+URL https://test.hissa.com/
+username n.lokesh@qarea.biz
+password Hissa@12345
+chromedriver C:\\Users\\Lokesh\\eclipse-workspace\\selenium\\resources\\chromedriver.exe
+browser chrome
+EmployeeName emp_1
+EmployeeId 1234
+EmailId qaemployee+718@rulezero.com
+department QA
+
+Employeeurl https://employee.test.hissa.com/
